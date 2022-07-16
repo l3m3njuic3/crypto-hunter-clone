@@ -7,7 +7,7 @@
 ## Demo
 #### Here is a working live demo :  https://crypto-hunter.netlify.app/
 
-## Built with 
+## Built
 
 - [React JS](https://reactjs.org/)
 - [Material UI](https://v4.mui.com/)
